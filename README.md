@@ -7,3 +7,4 @@
 | --------- | --------------------- |
 | Email     | dev.zulan@gmail.com   |
 | Discord   | Zulan#9999            |
+| Website   | https://zulan.best    |
